@@ -4,4 +4,4 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode
-        1.TwoSum/solution.cpp)
+        src/1.TwoSum/solution.cpp src/921.MinimumAddToMakeParenthesesValid/solution.cpp)
