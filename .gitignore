@@ -105,3 +105,4 @@ venv.bak/
 .idea/
 cmake-build-debug/
 myprogram
+myprogram.dSYM/
