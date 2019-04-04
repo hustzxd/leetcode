@@ -4,9 +4,12 @@
 ```bash
 g++ -o myprogram solution.cpp -std=c++11
 ./myprogram
-# debug on mac
+
 g++ -o myprogram solution.cpp -std=c++11 -g
+# debug on mac
 lldb myprogram
+# debug on Linux
+gdb myprogram
 ```
 
 
