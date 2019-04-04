@@ -1,4 +1,5 @@
 # leetcode
+> This is just a summary of algorithmic exercise, most of the code is inspired by leetcode discussion.
 
 ```bash
 g++ -o myprogram solution.cpp -std=c++11
