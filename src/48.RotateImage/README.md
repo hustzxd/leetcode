@@ -44,5 +44,5 @@ rotate the input matrix in-place such that it becomes:
   [16, 7,10,11]
 ]
 ```
-
+<img src="IMG_0238.jpg" width="50%" height="50%">
 
