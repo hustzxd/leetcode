@@ -106,3 +106,4 @@ venv.bak/
 cmake-build-debug/
 myprogram
 myprogram.dSYM/
+.DS_Store
