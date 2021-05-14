@@ -1,10 +1,7 @@
-#include <vector>
-#include <iostream>
-
-using namespace std;
+#include "../../include/solution.h"
 
 class Solution {
-public:
+   public:
     vector<int> twoSum(vector<int> &nums, int target) {
         vector<int> result;
         for (int i = 0; i < nums.size() - 1; i++) {

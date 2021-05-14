@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.deploy": "prototxt",
+        "*.java": "java",
+        "ostream": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4}",
+    "bracket-pair-colorizer-2.excludedLanguages": [
+    
+    ]
+}
